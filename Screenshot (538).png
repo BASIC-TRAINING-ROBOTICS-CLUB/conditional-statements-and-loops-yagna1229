@@ -1,0 +1,13 @@
+DOCUMENTATION!
+
+here is the file named main.c is includes the program to covert the grey code into the binary code
+
+here one header file named library.h included using preprocessor #include"library.h"
+
+so that it includes the code for the binary to grey code convertor
+
+--> you can also use terminal to run this main.c file by using
+-->gcc -app main.c library.c   
+-->./app
+
+so you get output of your grey code
